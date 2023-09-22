@@ -1,0 +1,13 @@
+.flex-container11 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-bottom: 65px;
+}
+.image-container1:last-child {
+  height: 290px;
+}

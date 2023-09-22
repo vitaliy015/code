@@ -1,0 +1,108 @@
+.creative-section2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: -115px;
+}
+.creative-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1920px;
+  padding-top: 384px;
+  padding-bottom: 243px;
+  background: url(https://s3-alpha-sig.figma.com/img/b09c/f43e/3f04b439c00394b0255a3d65450eb27d?Expires=1696204800&Signature=TzSLdavTZtCSvvOE4XUcdc4n63ozLH1k5RAkl7JiPpOQwI8~exRBYcNAgqKm8L5WALiOM1LGGUK18KJ0kCJ--zFcIAAUVRRq6Ee5aLn5cEpQVNklMWUkTMGT3rL0wk7~vNNytufquL8~uR3gBbPLClJcjC1l349ETzemGYTxSOPfJV4Li0gMhzTfzVotPTh8CJbvugPSWPWlmH1b5a2TJhz~VVO5t5btWt70otT1-oTAVXbPj8q8qX-jXNKdyoMn5llHMI5zJ87XOAtqiF6m9YjNI-YzyYds0TcHuo6IsyqDI2BKSfBSpqdMdT2bVgQ1szL3bXbgqDLzAfQBQ1F7Ng__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.creative-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 39px;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 576px;
+  padding-left: 576px;
+}
+.awesome-features-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  margin-top: -2.25px;
+  font: 400 34px/1px Montserrat;
+  color: #d4d4d4;
+  text-align: center;
+}
+.explore-purchase-buttons {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 127px;
+}
+.explore-now {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.explore-button-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 169px;
+  height: 64px;
+  background: white;
+}
+.explore-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 169px;
+  height: 63px;
+  margin-top: -59px;
+  font: 700 15px Montserrat;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: #18cfab;
+  border: none;
+}
+.purchase-button-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-left: 26px;
+}
+.product-card {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 168px;
+  height: 64px;
+  background: white;
+}
+.purchase-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 168px;
+  height: 63px;
+  margin-top: -59px;
+  font: 700 15px Montserrat;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: #00cbf6;
+  border: none;
+}

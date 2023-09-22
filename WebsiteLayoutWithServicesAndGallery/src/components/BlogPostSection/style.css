@@ -1,0 +1,197 @@
+.blog-post-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 15px;
+}
+.blog-post-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 35px;
+  align-items: center;
+  justify-content: space-between;
+}
+.date-container6 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 143px;
+  background: url(https://s3-alpha-sig.figma.com/img/5baf/262c/de382c1fc730b495c654d8315491b4af?Expires=1696204800&Signature=i~xASoRHcXtpzo6P4uzu~5rYhAF86zivd51t-KA3m3P6qu2rzJ41DzqRqWGAyPx-HyLE921OqQT8CgycPAOW-IwBO1Xw12OGDP41I056iMOJft0POJA0a4gyjv27d7pdzTXX72V2xv84w9815p8aqTAwAHxA9wQD~~WBhFY2Bv5f0xZFdJITKuSXo3O1OCro4pusz4tIZKeIsr4wSzwEYL~7dw-B-r1cUnsAsVqedC1uJZF8-8RT-M5bsrvYy6h6SNVnz5tduYo98Tle1Fs9r8jbnGoCL0jyq8B7sQrwJwnpXzHcCz15tqxNOB4GZh10qRTRr~8Wcpg~sqr2mcQ3GQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.date-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  height: 64px;
+  padding-right: 4px;
+  padding-left: 4px;
+  background: #18cfab;
+}
+.date-label {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 400 16px Montserrat;
+  color: white;
+  text-align: center;
+}
+.date-container4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 143px;
+  background: url(https://s3-alpha-sig.figma.com/img/b9d6/41fb/657c2c285480db6de695fc33eddf0565?Expires=1696204800&Signature=gQMxc8ry20zd7VR~4DBEI-Xg43YKYz6EWsvInRiUjmJUblzg4EWj9P76kVGKshnI-ElIjWQ1AZuUxU90A96o8Std~aovCFX2RE43BrpU1e0NJWPy8j1wPe2~ii2cHn4A0JYUzWAHVgdXnY4Q1kPjAA-~np5ZwXNL3tXZTHiWXS6R5ULUBHstVdtHkeRaWeWwRD1SEmuhUeGhAtrK3ozZUYOHe0QD7ztMF0zhQz7E7OJWO2nLpUeCPSQgIj7aVUrON1FQBJeYluoiHMmKen6RQotziPyq3U5~O2qe4v9leiCelCmSjFxHPUdYmUqd9HSixxXpqt89~ViECzBbjRp67Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.date-container7 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  height: 64px;
+  padding-right: 4px;
+  padding-left: 4px;
+  background: #203e38;
+}
+.date-container11 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 143px;
+  background: url(https://s3-alpha-sig.figma.com/img/61cc/3bb0/f8c1a7d44638f98ae6c9e4a3c8d04981?Expires=1696204800&Signature=anWqEm-e1PtNZgllYTr9gN83OgeC6eOBzMYQywsFQbcZjCAIPBK8rm1X6NK8GJmF-lFnTv6LfsmACgKX~sJCcuoICegVBs7Y8YYR2F~drcDx-wLCfBqqNL2t5xFYZJN2vCW31CMAXs1orDF7l~7RaI0Cu1QZtf6TG1r4pWQrdgKTEzQf4cZaqvKodaRUhtwjGK9d~TQ3NJuQ9khMVoyLocDBq3BEHgFiXZrJTgv8XsIdefsdiTCbg5ACp7Zo8aZxmWVAYQFvYx3WKIPuzf~6SPrdUP2nFOaaUBNsH6QuEMDHlvD3zdvnJG8OtMwnpIDGWdlQ76~LCeN~EW4n7gmDRQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.date-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 143px;
+  background: url(https://s3-alpha-sig.figma.com/img/d059/5be7/d6b895fe4d6b547fc5409249bc567f9c?Expires=1696204800&Signature=RKu99Czx4blPpbLxJMC39YfiCJV4zbecfQyFueUDLAxJtZWBGHERpikyqJFA01cmYI7eaIFyNbW8xhhCxV4KHOx1r6s8JhybBtY4ep-8mKCoaPCOyTF23CKtT6FVWCUw542rH7DO0v1CSTVpYk90H8HavjjEM1ACnNEfk3NkdypIUAgvpUgSeq5-JSXi9zw4cC6mLbt20Rbz2AyVUO5qYHCjWR1NHHKegARVyQwF3F5gVzV9ZBPhj35BhFW912nFKFH7GraOk~2p15d1r79f5xujoVI5Pm2268w6jOLYJk~~bWNdLK0BKUlNaeYRHSmUTJ0mlLNMJ2c0BTf3T19VKA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.blog-post-container9 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-right: 18.5px;
+  padding-left: 18.5px;
+  margin-top: -1.5px;
+}
+.blog-post-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 17.65%;
+  height: 73px;
+  padding-right: 15px;
+}
+.blog-post-title2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-left: 3px;
+  font: 700 18px Montserrat;
+  color: #18cfab;
+  text-align: center;
+}
+.blog-post-meta {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 4.25px;
+  margin-top: 15px;
+  font: 300 14px Montserrat;
+  color: #777777;
+  text-align: center;
+}
+.blog-post-container10 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 32.53%;
+  height: 73px;
+}
+.blog-post-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 700 18px Montserrat;
+  color: #717171;
+  text-align: center;
+}
+.blog-post-meta1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 15px;
+  font: 300 14px Montserrat;
+  color: #777777;
+  text-align: center;
+}
+.blog-post-container6 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 28.39%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.blog-post-container7 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 21.43%;
+  height: 73px;
+  padding-right: 43px;
+  padding-left: 15px;
+}
+.blog-post-title1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 2.75px;
+  font: 700 18px Montserrat;
+  color: #717171;
+  text-align: center;
+}
+.blog-post-meta3 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-left: 4px;
+  margin-top: 15px;
+  font: 300 14px Montserrat;
+  color: #777777;
+  text-align: center;
+}

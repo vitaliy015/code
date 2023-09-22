@@ -1,0 +1,12 @@
+.image-container1 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 378px;
+  max-width: initial;
+  border: none;
+  object-fit: cover;
+}
+.image-container8 {
+  height: 263px;
+}

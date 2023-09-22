@@ -1,0 +1,14 @@
+.creative-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 9px;
+  padding-left: 2.5px;
+}
+.creative-heading {
+  box-sizing: border-box;
+  max-width: 757px;
+  font: 700 78px/1px Montserrat;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}

@@ -1,0 +1,44 @@
+.creative-design-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.creative-design-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.creative-design-section4 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 850px;
+  height: 207px;
+  background: url(https://s3-alpha-sig.figma.com/img/cf27/0d9d/8fd9af31a594d81cbe1f8e821a927e00?Expires=1696204800&Signature=JiZFZ904htsb4sdQGogNmietcNZ9MrSDNsbmN~xQ8AT9yNgEPDeXU6vY~ao29Z2FeyvXObFkwPlHSi0U1No-BzqTwWiS8oN04ep98dvopcsUpqx4QXeRxKvDgKzKGH6rniCPSmZfgN6sg7bsVRijFt35tKJEAMLWkmyxvH830NiPTnN5aTYFeJLId6PGWJfkxs2KXZQ9E9wqn0VELwvk15bH6ZbLYsKBONjrJmCOl~L8ewYr~LBocP3ZbBInLL9-NQ7k6o0dK-ASIXONtKn~x0lq8tI~LSsr0QhKa5nxPdMaXbbNiRCeOJZouwEr-KXOJxGikvG91bqGzUrf6gs44A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.creative-design-section {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 1140px;
+  height: 206px;
+  background: url(https://s3-alpha-sig.figma.com/img/ba6c/6927/1d0cd3a37f9e56c5949552fac037662b?Expires=1696204800&Signature=n~7UbZd2~nqvuUqs2mkpFJgO7xUrxfekpjFeVqsG~pYRM0hhsV7yGFsgTDoU4c6KR-nU5ZQPziKcUwa-DzS2FbKYuNanbFsDXpfqJXYjQXyxFBk1DRROYdOQqO6TGn1PG~0luJ6ERt18UQsdpoe9oNrDRLIGOLVJrKKedE8eanfJ8C9LrszTxp6bsH2wUTvyKcTWCMpXOOCQx6HnzROyjnW7zvmSLKn5WUVWHniR0zkTuF1ndgkLgW42VADucOdpFWka3~-pbum0r3wJN-sZnrCBRSWv9L~LOtOk4W4Rg2E88ZrePj6fuRYr2aHSyf3M3QM4WHv2L7yH4KDJq5shFQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.creative-design-section1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 1140px;
+  height: 206px;
+  background: url(https://s3-alpha-sig.figma.com/img/a0b7/b9e5/06402d27ca7c4b6c7e450300b9b7ba86?Expires=1696204800&Signature=Mh7P5tmal2b6xIi7q5iK5MLOf6Yr15hEXBBQMQ6ihmWeD9YSeOBn2CcrmAjzvXfcKH9gvS4yUA-4Q3HR~U6PG6DRJ82da6lUieHZgOYriNcOfpCzLtwai0LcIRcIFeEnYnmx80oS750ILHnJu-xucJeTVzuL4Z3Cv8t9LRgPz7lOR7iNvzE~fy~3GPdhmjoMmfg~Uzyh0anX0nMU7QfyETx8QxI9zE1Wwfdkp0zDpJAc3zH-9yv6-8tiiqCZMI5QfUhgQR57QYMMXUBu6uQdXz~i-RvzOA0HXdMi2a28mGYHZrZvncwS8LKKVEnQ3lZah6febDjvZQHvwGVLsQx8kQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

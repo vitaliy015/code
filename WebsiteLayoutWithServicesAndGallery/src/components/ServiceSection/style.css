@@ -1,0 +1,149 @@
+.container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+  margin-top: 72px;
+}
+.flex-container4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 76px;
+}
+.web-design-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 195px;
+  height: 76px;
+  font: 400 16px Montserrat;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  background: #18cfab;
+  border: none;
+}
+.flex-container9 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-right: 36px;
+  padding-left: 35px;
+  margin-left: -10px;
+  background: #f8fcfe;
+  border: 1px solid #edefef;
+}
+.graphic-design-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 400 16px Montserrat;
+  color: #717171;
+  text-align: center;
+}
+.online-support-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 194px;
+  height: 73px;
+  margin-left: -2.5px;
+  font: 400 16px Montserrat;
+  color: #717171;
+  text-align: center;
+  cursor: pointer;
+  background: #f8fcfe;
+  border: 1px solid #edefef;
+}
+.highlighted-box {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 192px;
+  height: 73px;
+  margin-left: -186px;
+  border: 1.5px solid #18cfab;
+}
+.flex-container5 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  padding-right: 48px;
+  padding-left: 48px;
+  margin-left: -9px;
+  background: #f8fcfe;
+  border: 1px solid #edefef;
+}
+.marketing-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 193px;
+  height: 73px;
+  margin-left: -2px;
+  font: 400 16px Montserrat;
+  color: #717171;
+  text-align: center;
+  cursor: pointer;
+  background: #f8fcfe;
+  border: 1px solid #f2f2f2;
+}
+.service-button {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 192px;
+  height: 73px;
+  margin-left: -3px;
+  font: 400 16px Montserrat;
+  color: #717171;
+  text-align: center;
+  cursor: pointer;
+  background: #f8fcfe;
+  border: 1px solid #edefef;
+}
+.flexbox-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-top: 23px;
+}
+.image-container17 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-right: 15px;
+}
+.image-container18 {
+  box-sizing: border-box;
+  display: block;
+  width: 192px;
+  max-width: initial;
+  height: 139px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-ca786767 {
+  content: url("https://s3-alpha-sig.figma.com/img/7f27/1e49/97fef6bea3d37782bda1ea949d21b40f?Expires=1696204800&Signature=WtmUqWbpNn7YoKPDlrhrPF2~C0hkQXZYnAPwm-k1lhWeQOodMvXkrKDtzlO6K4oL9QOLEfSoNhClJCDcmPlYB1bDxg18BLt~QQxNMNoSQ9AAAipxQnQ5q99dPIWPBOY6rxxd1107YnFykwD-PA6SuvpOgOTP5B9Hl1lZZE3Ynm9p6qZGgxJdA2sB-B19ZjA6~J0c0K8xIOSR1Gk1QKqkFQPScHcq6V-AT8phk5vU~jbBd~dGVhBaOODKprCvMgaPk2~O~97cK~Y0~lV4uw~aMHd6FC9iUKFwTC7KS7VcBuxfbu1UPDeb9DWo8TUm7MbzPc1tZsT1LTb3Qk7wCB3wZA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.content-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 946px;
+  padding-top: 5px;
+  font: 300 13.5px/24.5px Montserrat;
+  color: #777777;
+}

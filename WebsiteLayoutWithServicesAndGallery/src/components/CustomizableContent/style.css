@@ -1,0 +1,31 @@
+.customizable-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 98px;
+  padding-bottom: 103px;
+  margin-left: -2px;
+  background: #18cfab;
+}
+.customizable-image {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 95px;
+  max-width: initial;
+  height: 76px;
+}
+.img-content-a163b473 {
+  content: url("data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27673.9324%201123.5000%2095.1346%2076.4872%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Combined%20shape%201172%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M749.294%201124L737.05%201142.42L724.395%201124H749.294ZM735.106%201146.63H707.943L721.523%201198.03L735.106%201146.63ZM708.85%201143.61H734.197L721.523%201125.16L708.85%201143.61ZM705.998%201142.42L718.651%201124H693.754L705.998%201142.42ZM718.645%201199L704.809%201146.63H675L718.645%201199ZM675.043%201143.61H703.157L690.91%201125.19L675.043%201143.61ZM752.116%201125.22L739.892%201143.61H767.957L752.116%201125.22ZM738.239%201146.63L724.401%201198.99L768%201146.63H738.239Z%27%20fill%3D%27white%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E");
+}
+.customizable-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 65px;
+  font: 700 20px Montserrat;
+  color: white;
+  text-transform: uppercase;
+}

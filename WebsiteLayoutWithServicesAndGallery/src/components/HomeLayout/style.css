@@ -1,0 +1,169 @@
+.main-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-right: 2px;
+}
+.main-header-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 120px;
+  padding-right: 380px;
+  padding-left: 380px;
+  background: rgba(94, 93, 88, 0.6);
+}
+.header-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 38.07%;
+  height: 120px;
+}
+.ham-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  height: 67px;
+  padding-right: 13px;
+  padding-left: 13px;
+  background: url(https://s3-alpha-sig.figma.com/img/7956/d333/17524c3bbb39b0a330e0a0ef56ef1c63?Expires=1696204800&Signature=E-rA6P4onL6-rKbnCCirlH1htTUx46wBT47-22SDFl5QMGtnqkbEHvhKw2RQ6GLoJmlp71IlPT25RyWFjbqypPx8y8TNnyJl5iN70ykyfE-KOQbRt3aPTtUZcQPCRO6pjU34HNw-yflebKoZaloHDkdfGhmwv~pYkP4R8Q-Dz36BWfKB58s6~zo8QXZk~fuj6FWKoICmO28hVkHb5JKS3i2micciW4Xj-W0JdQK4ngJrVUcAZy2S3cfjmN5QX88bUP7pPniP2JDebBqSvtRFg4CShVW9g9iJHAHg7mOyP66r~IdUkdQPPnd4fPJ1RQtr5frA3Ilmvk2CMwQNPkMdIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 700 40px Montserrat;
+  color: white;
+}
+.ham-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-left: 6px;
+  font: 400 32px Roboto;
+  color: white;
+}
+.montserrat-heading {
+  font: 400 32px Montserrat;
+  color: white;
+}
+.ham-title {
+  font: 700 32px Montserrat;
+  color: #18cfab;
+}
+.flex-container8 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 61.93%;
+  padding-top: 49px;
+}
+.hover-home-about {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 6.25px;
+}
+.flex-container6 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: space-between;
+}
+.creative-design-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hover-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-top: 12px;
+  font: 700 12px Roboto;
+  color: #f51717;
+}
+.home-link {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: center;
+  margin-left: 14.5px;
+  font: 700 16px Montserrat;
+  color: #18cfab;
+  text-transform: uppercase;
+}
+.hover-link {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-bottom: 14px;
+  font: 700 16px Montserrat;
+  color: white;
+  text-transform: uppercase;
+}
+.hover-button {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 60px;
+  height: 30px;
+  margin-top: 9px;
+  border: 2px solid #18cfab;
+}
+.navigation-bar {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 25px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.navbar-link {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 700 16px Montserrat;
+  color: white;
+  text-transform: uppercase;
+}
+.center-image-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: center;
+}
+.image-container14 {
+  box-sizing: border-box;
+  display: block;
+  width: 21px;
+  max-width: initial;
+  height: 20px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-3bd0ba1b {
+  content: url("https://s3-alpha-sig.figma.com/img/3815/98b3/a980f539b1403043503466e53b51c387?Expires=1696204800&Signature=UO7sO0v0lCPbsxKYvkX4Sf~TltClhlxpmgcSUZ-umdT0yQ-AQOG3PTbfHN4IvPwSwdSvzjjbD2sxw62mvx6-aGLpZaD6WA-ib46n~0BUwtAsEShkMAbSeQYrlU4rEeAMt-inRG0LVhETUPe2syiZy29MVb54fHLFips3c~Y-wVo1SI6lozAIi6WF62KU1G5lT2QLV3PexnIiQ0rxO5A8BuP61YVeJAJMaczj1mlS1JGTsbUYjNNyeVzS0N0qeIqc1G8VF73-IvSvOULVYEx2tIv1ZOT8rObj~-5ET5ChnKgFisJtc7zMmUkDO02Qj4hVhvF7bx39dSD8g~1-DztR5Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}

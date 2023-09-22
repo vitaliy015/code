@@ -1,0 +1,29 @@
+.date-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding-bottom: 143px;
+  background: url(https://s3-alpha-sig.figma.com/img/34a7/26c2/e7dcc7448057e88b3791b217009f5dcc?Expires=1696204800&Signature=KKxFvE2mk-p7T8mqfKpUdBBxZzT7SK79alDPRKinX6vos~Ew-Kzoqmursivy0eRkXM7AQNa6zdHzFTokbfNB5nRroBsJFpkWB3gH0yX2TAZJVvi~3Yg~oqSiUanoU7fIcYwoIliNZZfZCZ8QFdJn1ayYepqHK53IQiDVis1XzImEQHSr9E7fwOSOejEfK0p8O8~wJLR3siS3X6N0kptWQFgJcRDs5MP8uBoCiK6A5gqX7auRbOIUwSuAnW2CGUTMVU4PDrJkjjbP6hdP9isNQ4o1TIEJ1PAL1mzwYt2WzpQ0Ba3Zy~RlBJnVuHSYhgZ-da1rVDsi-Jie9zzVyRe9IA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.date-container8 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  height: 65px;
+  background: #203e38;
+}
+.date-label {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 400 16px Montserrat;
+  color: white;
+  text-align: center;
+}

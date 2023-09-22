@@ -1,0 +1,278 @@
+.testimonial-container2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  padding-right: 2px;
+  margin-top: 43px;
+}
+.testimonial-section {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 1920px;
+  padding-top: 104px;
+  padding-bottom: 98px;
+  background: url(https://s3-alpha-sig.figma.com/img/2274/36b4/1f49fd2123ae3cc3388d26a7657b243b?Expires=1696204800&Signature=B1rC11eBj0Bo2Je5TocpuS4WTcnnhy1zvKmETgET1zxecHAQQPtdUmy3SSKDoGz10WP5GeJcaPlIdK~noLQm1~ezNmQN6ubyodHYBlXkmRYd1zgeea4zT8SdbA5Sa~r6EY9L8PfEFfPGPbzYocWJJ3p1M16iuxAOtE9ecn~bW2987Dkl0VznM9y6K6yRjY298HDFKwJ1Q7OZMQRbjKXWTFt1AQwasMrGwrzJ6--G~EajoKdgp1HGvcMQAdsnGhGro4hKmh3jrAXeJgFdks6OPouojSKJ5r9BuLB48Ga185cjvoZdoQaZRRydKjjfjgGMWxEA~zPB1K4SL-tfOq-Y7Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testimonial-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 670px;
+  padding-left: 668px;
+}
+.testimonial-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  font: 400 36px Montserrat;
+  color: white;
+  text-align: center;
+}
+.testimonial-container1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 29px;
+}
+.narrow-horizontal-bar1 {
+  box-sizing: border-box;
+  display: block;
+  width: 89px;
+  max-width: initial;
+  height: 6px;
+}
+.img-content-19f3c3cc {
+  content: url("data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27916.5000%204755.5000%2089.0000%205.9900%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20id%3D%27e7c8e629%27%20x%3D%270%27%20y%3D%270%27%3E%3Cg%20id%3D%27Artboard%27%3E%3Cg%20id%3D%27Client%20feedback%27%20clip-path%3D%27url%28%23clip8_2143_2%29%27%3E%3Cg%20id%3D%27Title%20copy%206%27%20clip-path%3D%27url%28%23clip21_2143_2%29%27%3E%3Cg%20id%3D%27Style%20copy%27%20clip-path%3D%27url%28%23clip22_2143_2%29%27%3E%3Cpath%20id%3D%27Shape%201%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M917%204756.99V4756H992.543V4756.99H917Z%27%20fill%3D%27%2318CFAB%27%2F%3E%3Cpath%20id%3D%27Shape%201%20copy%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M929.456%204760.99V4760H1005V4760.99H929.456Z%27%20fill%3D%27%2318CFAB%27%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%27clip8_2143_2%27%3E%3Crect%20width%3D%271922%27%20height%3D%27854%27%20fill%3D%27white%27%20transform%3D%27translate%280%204591%29%27%2F%3E%3C%2FclipPath%3E%3CclipPath%20id%3D%27clip21_2143_2%27%3E%3Crect%20width%3D%27583%27%20height%3D%2771%27%20fill%3D%27white%27%20transform%3D%27translate%28669%204691%29%27%2F%3E%3C%2FclipPath%3E%3CclipPath%20id%3D%27clip22_2143_2%27%3E%3Crect%20width%3D%2791%27%20height%3D%278%27%20fill%3D%27white%27%20transform%3D%27translate%28915%204754%29%27%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E");
+}
+.testimonial-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 38px;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 381px;
+  padding-left: 379px;
+  margin-top: 66px;
+}
+.image-container3 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 45px;
+  max-width: initial;
+  height: 31px;
+}
+.img-content-fa87b093 {
+  content: url("data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27937.5000%204829.4900%2045.0000%2031.0000%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Combined%20shape%202474%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M947.658%204840.9C952.969%204840.9%20957.274%204845.18%20957.274%204850.45C957.274%204855.72%20952.969%204859.99%20947.658%204859.99C942.348%204859.99%20938.043%204855.72%20938.043%204850.45L938%204849.08C938%204838.54%20946.61%204829.99%20957.231%204829.99V4835.45C953.562%204835.45%20950.112%204836.87%20947.518%204839.44C947.019%204839.94%20946.563%204840.47%20946.152%204841.02C946.643%204840.95%20947.146%204840.9%20947.658%204840.9ZM972.384%204840.9C977.695%204840.9%20982%204845.18%20982%204850.45C982%204855.72%20977.695%204859.99%20972.384%204859.99C967.074%204859.99%20962.769%204855.72%20962.769%204850.45L962.726%204849.08C962.726%204838.54%20971.336%204829.99%20981.957%204829.99V4835.45C978.288%204835.45%20974.838%204836.87%20972.244%204839.44C971.744%204839.94%20971.289%204840.47%20970.877%204841.02C971.368%204840.95%20971.872%204840.9%20972.384%204840.9Z%27%20fill%3D%27%2318CFAB%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E");
+}
+.text-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  font: 300 16px/30px Montserrat;
+  color: #bbbbbb;
+  text-align: center;
+}
+.designer-info {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 120px;
+  margin-top: -1.75px;
+  font: 400 12px/27px Roboto;
+  color: #18cfab;
+  text-align: center;
+}
+.montserrat-bold-green-uppercase {
+  font: 700 16px Montserrat;
+  color: #18cfab;
+  text-transform: uppercase;
+}
+.ux-designer {
+  font: 300 13px Montserrat;
+  color: #bbbbbb;
+}
+.card-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 11px 12px 12px;
+  background: url(data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27877.5720%205060.5000%20164.8580%20163.7900%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Ellipse%202_5%27%20opacity%3D%270.2%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M960%205061C1005.25%205061%201041.93%205097.44%201041.93%205142.39C1041.93%205187.34%201005.25%205223.79%20960%205223.79C914.752%205223.79%20878.072%205187.34%20878.072%205142.39C878.072%205097.44%20914.752%205061%20960%205061Z%27%20fill%3D%27%231FDAB5%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image-container {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 143px;
+  max-width: initial;
+  height: 142px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-fd3cb076 {
+  content: url("https://s3-alpha-sig.figma.com/img/ab28/9c2c/f916b378f494e9216dce40c4a87a0e95?Expires=1696204800&Signature=JhuzHWnO5OZ6GDmY7Or4gFgqvJXa~pSu5TpKnxenqXR88yNcJGGMR79NSOSch2NCGpXDmT6NcytweESGoz3x2X8ePqz3g-P5ER3lu1TOvd59PeRQAY7P96urNJBqRNY~exCBcpIaHSZKfLB9cNm1Hf9IUWU4ckEki6hV4RuJWzC3PQ4nHxxa3YrnmMeZW06d10GEFUtPBF~-3QtnauAas1As00CS~sXJlfX3XJJkoCCJLGOU2GQ7dqYRYFHNyV-nnqo0pduRTL8NBAPpTPLYL3cmxpX~S3dYnq9VYZGvxSgj45VJn5rN-wZnBu3aCfy3iAnJpUfUVrEl6HqLxSdKAA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.flex-container7 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 29.5px;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 310px;
+  padding-left: 310px;
+  margin-top: -5.25px;
+}
+.svg-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+}
+.image-container9 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 71px;
+  padding-right: 5px;
+  padding-left: 5px;
+  background: url(data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27780.5000%205276.5000%2068.6830%2068.1900%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Ellipse%202%27%20opacity%3D%270.2%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M814.842%205277C833.532%205277%20848.683%205292.04%20848.683%205310.59C848.683%205329.15%20833.532%205344.19%20814.842%205344.19C796.151%205344.19%20781%205329.15%20781%205310.59C781%205292.04%20796.151%205277%20814.842%205277Z%27%20fill%3D%27%231FDAB5%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image-container13 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 60px;
+  max-width: initial;
+  height: 59px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-da48076b {
+  content: url("https://s3-alpha-sig.figma.com/img/ae6a/2a42/c51dc5af4b1519517dc131d09088c723?Expires=1696204800&Signature=mGwlJ32LNRd5f7d52acCYfFFL53tIvKW4WLAzDoo1vqFuB5Y5xaZXVNCgxX-C7Gx1trdKdHBxqVjScLC9zuAYio1fNk5iTSXPnsNAxv2rN~5xbZgJz2yiSpyWTJVbdmC32biHr-TfcPfCKNsSB3id7qhV1h4UKHyZVUzBEP88LJ4U27t~Z2ifiz8wGnUdBIfPGAy3Uun9iHrxVqypFWdthsw1ZTk4nxEjnEWr5h2bqLnir80psxSQF6MxKqsvr~-2jrYOloLoKTiw0OSckWed5T5fAs61LGSAX7yL3TcnHiEYYLP-VARfSnnaGyDlV4XO6c3t5Z9BXUJwDiIObzUmg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.hover-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 69px;
+  padding-right: 6px;
+  padding-left: 6px;
+  background: url(data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27878.5000%205277.5000%2067.2020%2066.9100%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Ellipse%202_2%27%20opacity%3D%270.2%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M912.101%205278C930.382%205278%20945.202%205292.75%20945.202%205310.95C945.202%205329.15%20930.382%205343.91%20912.101%205343.91C893.82%205343.91%20879%205329.15%20879%205310.95C879%205292.75%20893.82%205278%20912.101%205278Z%27%20fill%3D%27%231FDAB5%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image-container2 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 58px;
+  max-width: initial;
+  height: 58px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-f0f97e66 {
+  content: url("https://s3-alpha-sig.figma.com/img/7081/a969/eadf4c31421099738c5cc50e7ec7149e?Expires=1696204800&Signature=Et3r4JLZ6C76sZ~MJOdICsEzrE3CEjOBv~QYgwUB4ttQFbnUpE6P~CAJGAAq~cnhlLbjBxHzaXRxQ2pTLx-3SeCwKe8-~vbE~XmQHrauQ1lCMlMKgckdVDqr4fDjckEEazG7NHz9diHdvpgNpdCDTqo1vKlKnmJam6otrBy-Ecc3KDvUeGMEVJ1CRXR9lFgSQg48kKt~S6WufId5YMbZLDXUTczNGXohJCM4BxTzc3QVZYc6r2J7x13LfcbndqdeGcW9G1SE~PFhgh3FOEmTcbFM3rzcovXNnVaya0YWdmBuyXTI0hLOlVt045J6pgs8i2Y93b2EZxHUGOqOCiolSA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.hover-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 6px 5px 5px;
+  background: url(data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%27975.0010%205264.5000%2069.4190%2069.7600%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Ellipse%202_3%27%20opacity%3D%270.2%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M1009.71%205265C1028.6%205265%201043.92%205280.39%201043.92%205299.38C1043.92%205318.37%201028.6%205333.76%201009.71%205333.76C990.818%205333.76%20975.501%205318.37%20975.501%205299.38C975.501%205280.39%20990.818%205265%201009.71%205265Z%27%20fill%3D%27%231FDAB5%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image-container16 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 61px;
+  max-width: initial;
+  height: 61px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-143c0728 {
+  content: url("https://s3-alpha-sig.figma.com/img/bc14/79aa/6a559485a0ea0801fbbe6aaca6d6c258?Expires=1696204800&Signature=nJ4fGAvSd2TUfs1rGz8sSuxzr5feGSuYtRcmzfawrNzC9GkWlxYYQZV3n3SbSXNQSh7LA~1iD3CVnNdnkZRYUHJLeLpGQw207bMqKQXMRrtRIAObT~LE~FthGN5uuvGKOPdVXrlXCT2ww-xC2ELgyKp4eX-cDAieK39IiIvwfrEP6sEOaEpo~RqDFfsIabBNGWoTzwc6QbypUSg~hhMpLRi0kEehbmlDlU0hhYPglpUy6zZv0SYbBHi5aU7DSkNPuC7Lj0J0Embu7brlXDcBTj9dTQdZiUwWd5zYP4ZJtxLqOCX4~fom7HHH95HycSThQUe~eC9C3cuWTTsBtsfn8w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.hover-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+  padding-right: 5px;
+  padding-left: 6px;
+  background: url(data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%271073.2000%205276.5000%2067.8400%2067.6600%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Ellipse%202_4%27%20opacity%3D%270.2%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M1107.12%205277C1125.58%205277%201140.54%205291.92%201140.54%205310.33C1140.54%205328.74%201125.58%205343.66%201107.12%205343.66C1088.66%205343.66%201073.7%205328.74%201073.7%205310.33C1073.7%205291.92%201088.66%205277%201107.12%205277Z%27%20fill%3D%27%231FDAB5%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image-container11 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 59px;
+  max-width: initial;
+  height: 59px;
+  border: none;
+  object-fit: cover;
+}
+.img-content-410272e9 {
+  content: url("https://s3-alpha-sig.figma.com/img/a418/afa7/f70d478224cd9f2799ff311ad94059e1?Expires=1696204800&Signature=PfoyCaasspDgxfMBXX~tx6OzEa4HfkCTeqBaeXLnFm2Jbnhs7uZxAGRe3K1~tSlbu2vtxU8VSshvsQh2x1qu~AcQC3F426syIlimuEnS-nFuA3e0ZyYFJW75EAy1XGpK2RgtXFr9I5g~OoS2~S-0ZjHRUeO61yUXeHFAvEgWi5eMJAbQMs9jFmaIgApluaZk5dLBOtV9f9dM6zXisV~-Od9IDUvZHq2j31ZAdY7-P03m2S0xa-rs2aXeWnC3O1KrpQ-W8GDeRsJM6liU-3SpIo9OfoGz8TdKInVBGvu764erRuSe1FVWoXHKcTW8S6jJ6mLYgs3SMAXeYpiJce23yg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.hover-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: flex-start;
+  justify-content: flex-start;
+  padding-bottom: 19.5px;
+}
+.red-text-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: flex-end;
+  font: 700 12px Roboto;
+  color: #f51717;
+}
+.svg-container4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  margin-top: 22.5px;
+  color: #18cfab;
+}

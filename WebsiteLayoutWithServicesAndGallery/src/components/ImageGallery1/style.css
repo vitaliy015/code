@@ -1,0 +1,18 @@
+.flex-column-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.image-container1:nth-child(1) {
+  height: 380px;
+}
+.image-container1:nth-child(2) {
+  height: 247px;
+}
+.image-container1:nth-child(3) {
+  height: 254px;
+}

@@ -1,0 +1,71 @@
+.portfolio-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 132px 402px 127px 406px;
+  background: url(https://s3-alpha-sig.figma.com/img/0dc7/79f9/529d127f8e27c5a3b0c428a5e70f8bc5?Expires=1696204800&Signature=jqh1s8PogE4YfI12GztOljGUM5nRckQFH2y~Z-cU85E0c~aQa6mXCTM85QWeamFt47KGnJHSbrx2sr5k0Eu7dUt139MQY0wroR11fTpa3mizV-YPXLaoIUYSS31y9Z6BCId1GGkapfuKtVJiPrkgwwxvKjR18naphkEwOKQFwDkRnZDAy-sJO0-~k6nbh4wObaIre2dDwQ5BaSrz2Y3hNq01UuxwveK-31DlIyLvicj68~mE2YFMAWjcMdbPalyewOyIsRwpCUsqByWuROduFEjOlA7c4tLQXQg6~evQHDeneK0OZi0z08vvNxBuDPDK47sa6gst6UeotPvHGHsC4w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.portfolio-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ready-message {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  font: 700 40px Montserrat;
+  color: #18cfab;
+  text-align: center;
+  text-transform: uppercase;
+}
+.portfolio-description {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 32px;
+  font: 400 16px Montserrat;
+  color: #d8d8d8;
+  text-align: center;
+}
+.purchase-button1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+  padding-right: 471px;
+  padding-left: 471px;
+  margin-top: 73px;
+}
+.product-card {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 168px;
+  height: 64px;
+  background: white;
+}
+.purchase-button2 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 168px;
+  height: 63px;
+  margin-top: -59px;
+  font: 700 15px Montserrat;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: #18cfab;
+  border: none;
+}

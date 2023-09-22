@@ -1,0 +1,36 @@
+.blog-post-container5 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.blog-post-container8 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  padding-right: 16.5px;
+  padding-left: 16.5px;
+  margin-top: 16px;
+}
+.blog-post-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 700 18px Montserrat;
+  color: #717171;
+  text-align: center;
+}
+.blog-post-meta4 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 4px;
+  padding-left: 4px;
+  margin-top: 14px;
+  font: 300 14px Montserrat;
+  color: #777777;
+  text-align: center;
+}

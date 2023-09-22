@@ -1,0 +1,21 @@
+.theme-container {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 81px;
+  padding-left: 80px;
+}
+.ham-theme-title {
+  box-sizing: border-box;
+  max-width: 607px;
+  font: 700 35px/1px Montserrat;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+.ham-theme-description {
+  line-height: 1px;
+}
+.wordpress-theme-highlight {
+  line-height: 1px;
+  color: #18cfab;
+}

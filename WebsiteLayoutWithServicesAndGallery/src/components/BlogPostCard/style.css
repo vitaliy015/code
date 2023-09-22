@@ -1,0 +1,22 @@
+.blog-post-container4 {
+  box-sizing: border-box;
+  min-width: 265px;
+  padding: 15.5px 16.5px 11px;
+  background: #f8fcfe;
+  border: 1px solid #f2f4f5;
+}
+.blog-post-title3 {
+  box-sizing: border-box;
+  font: 700 18px Montserrat;
+  color: #717171;
+  text-align: center;
+}
+.blog-post-meta2 {
+  box-sizing: border-box;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-top: 15px;
+  font: 300 14px Montserrat;
+  color: #777777;
+  text-align: center;
+}
